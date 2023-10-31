@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "jsx": "precompile",
+    "jsxImportSource": "preact"
+  },
+  "imports": {
+    "preact": "./vendor_deps/preact.js",
+    "preact/jsx-runtime": "./vendor_deps/preact-jsx-runtime.js",
+    "preact-render-to-string": "./vendor_deps/preact-render-to-string.js"
+  }
+}
